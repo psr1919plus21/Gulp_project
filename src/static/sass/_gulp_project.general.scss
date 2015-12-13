@@ -1,0 +1,11 @@
+/* General */
+
+/* Color map */
+$colorWhite: #ffffff;
+$bodyBg: #f7f7f7;
+
+/* Fonts definition */
+@include font-face("CaviarRegular", "caviardreams-webfont");
+
+/* Comon styles */
+body {background:$bodyBg;font-family:"CaviarRegular";}

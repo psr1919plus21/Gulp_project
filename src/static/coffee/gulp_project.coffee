@@ -1,0 +1,1 @@
+console.log "gulp_project is started :)"
